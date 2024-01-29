@@ -1,0 +1,53 @@
+* {
+    background-color: black;
+}
+#container1 {
+    color: white;
+    font-family: sans-serif, serif;
+} 
+.saltnpepperimg {
+    position: relative;
+    top: 5px;
+    left: 110px;
+}
+.home {
+    position: relative;
+    left: 400px;
+    color: white;
+}
+.aboutus {
+    position: relative;
+    left: 450px;
+}
+.publications {
+    position: relative;
+    left: 500px;
+}
+.feedback {
+    position: relative;
+    left: 550px;
+}
+.getafranchise {
+    position: relative;
+    left: 600px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 40px;
+    padding: 15px;
+}
+.ordernow {
+    background-color: red;
+    position: relative;
+    left: 620px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: red;
+    border-radius: 30px;
+    padding: 20px;
+}
+#container2 {
+    position: absolute;
+    top: 100px;
+    left: 70px;
+}
