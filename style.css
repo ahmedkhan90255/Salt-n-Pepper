@@ -1,25 +1,19 @@
 * {
     background-color: black;
 }
-#container1 {
-    padding: 10px;
-    color: white;
-    font-family: sans-serif, serif;
-    display: flex;
-    align-items: center;
-    justify-content: end;
-} 
+
 .saltnpepperimg {
-    display: flex;
-    gap: 10px;
+    position: relative;
+    left: 50px;
 }
-/* .homelink {
+.homelink {
     color: white;
     text-decoration: none;
 }
 .home {
     position: relative;
     left: 220px;
+    font-size: 20px;
 }
 .aboutuslink {
     text-decoration: none;
@@ -28,6 +22,7 @@
 .aboutus {
     position: relative;
     left: 270px;
+    font-size: 20px;
 }
 .publicationlink {
     text-decoration: none;
@@ -36,6 +31,7 @@
 .publication {
     position: relative;
     left: 320px;
+    font-size: 20px;
 }
 .brancheslink {
     text-decoration: none;
@@ -44,6 +40,7 @@
 .branches {
     position: relative;
     left: 370px;
+    font-size: 20px;
 }
 .feedbacklink {
     text-decoration: none;
@@ -52,6 +49,7 @@
 .feedback {
     position: relative;
     left: 420px;
+    font-size: 20px;
 }
 .franchiselink {
     text-decoration: none;
@@ -60,7 +58,7 @@
 .franchise {
     position: relative;
     left: 470px;
-
+    font-size: 20px;
 }
 .ordernowlink {
     text-decoration: none;
@@ -69,16 +67,14 @@
 .ordernow {
     position: relative;
     left: 520px;
-} */
+    font-size: 20px;
+}
 .afternavbarimg {
     width: 100%;
     position: relative;
     top: 10px;
 }
 #heading1 {
-    /* position: absolute;
-    left: 45%;
-    top: 100%; */
     display: flex;
     justify-content: center;
     font-size: 20px;
@@ -86,7 +82,7 @@
     color: white;
 }
 #container3 {
-    margin-top: 110px;
+    margin-top: 30px;
     display: flex;
     justify-content: center;
     gap: 20px;
