@@ -1,7 +1,9 @@
-* {
-    background-color: black;
+
+body {
+    background-color: #000000;
 }
 
+/* Styling of navigation bar starts from here */
 .saltnpepperimg {
     position: relative;
     left: 50px;
@@ -69,11 +71,17 @@
     left: 520px;
     font-size: 20px;
 }
+/* Styling of navigation bar ends here */
+
+/* Styling of the imgage after navigation bar starts here */
 .afternavbarimg {
     width: 100%;
     position: relative;
     top: 10px;
 }
+/* Styling of the imagee after navigation bar ends here */
+
+/* Styling of heading1 start here */
 #heading1 {
     display: flex;
     justify-content: center;
@@ -81,13 +89,16 @@
     font-weight: 150;
     color: white;
 }
+/* Styling of heading1 end here */
+
+/* Styling of container3 and container4 starts here in which food category is  */
 #container3 {
     margin-top: 30px;
     display: flex;
     justify-content: center;
     gap: 20px;
-    
 }
+
 #container4 {
     display: flex;
     justify-content: center;
@@ -100,16 +111,21 @@
     font-size: 15px;
     
 }
+/* Styling of container3 and container4 ends here */
+
+/* Stylingo of container5 starts here in which vertical imagee and texxt is */
 #container5 {
-    background-color: #202327;
+    
+    background-color: #0f0f0f;
     display: flex;
     flex-direction: row;
+
 }
 .frontofsteakheading {
     font-weight: 100;
     font-size: 25px;
     color: red;
-    background-color: #202327;
+    background-color: #0f0f0f;
     position: absolute;
     left: 59%;
     top: 1150px;
@@ -117,7 +133,7 @@
 .discoverthetaste {
     font-size: 40px;
     color: white;
-    background-color: #202327;
+    background-color: #0f0f0f;
 
 }
 .paraofsteakimg {
@@ -125,10 +141,10 @@
     display: flex;
     font-size: 18px;
     color: gray;
-    background-color: #202327;
+    background-color: #0f0f0f;
 }
 .learnmore {
-    background-color: #202327;
+    background-color: #0f0f0f;
     color: white;
     border: 1px solid;
     border-radius: 20px;
@@ -142,10 +158,19 @@
     border: 0px solid;
     border-radius: 50%;
 }
+/* Styling of container5 ends here */
+
+/* Styling of container6 starts here */
 .ourdeals {
     display: flex;
     justify-content: center;
     color: white;
     font-weight: 300;
     font-size: 35px;
+}
+#container6 {
+   color: white;
+   display: flex;
+   justify-content: center;
+   gap: 60px;
 }
