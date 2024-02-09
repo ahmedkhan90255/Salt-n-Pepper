@@ -183,27 +183,175 @@ body {
     text-decoration: none;
     color: white;
     position: relative;
-    left: 160px;
+    left: 100px;
     top: 10px;
 }
 .chickenshashlik {
     color: lightgray;
     font-size: 13px;
     position: relative;
-    right: 140px;
+    right: 150px;
     
 }
-.pkr3 {
+.pkr {
     position: relative;
     top: 10px;
     right: 30px;
 }
 .shashlikordernow {
     position: relative;
-    top: 20px;
+    top: 30px;
     right: 60px;
     border: 1px solid red;
     background-color: red;
     border-radius: 30px;
+    padding: 10px 30px;
+}
+.pakistanivip {
+    font-family: sans-serif, serif;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    left: 120px;
+    top: 10px;
+}
+.chickenhandi {
+    font-size: 13px;
+    color: lightgray;
+    position: relative;
+    right: 120px;
+}
+.pkr2 {
+    position: relative;
+    top: 10px;
+
+}
+.handiordernow {
+    position: relative;
+    top: 30px;
+    right: 30px;
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 30px;
+    padding: 10px 30px;
+}
+.superior {
+    font-family: sans-serif, serif;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    left: 180px;
+    top: 10px;
+}
+.friedchicken {
+    color: lightgray;
+    font-size: 13px;
+    position: relative;
+    right: 130px;
+}
+.pkr3 {
+    position: relative;
+    top: 10px;
+    right: 5px;
+}
+.friedchickenordernow {
+    position: relative;
+    top: 30px;
+    right: 30px;
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 30px;
+    padding: 10px 30px;
+}
+#container8 {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+#container9 {
+    display: flex;
+}
+.pakistanibbq {
+    font-family: sans-serif, serif;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    left: 250px;
+    top: 10px;
+}
+.chickentikka {
+    font-size: 13px;
+    color: lightgray;
+    position: relative;
+    right: 85px;
+}
+.pkr4 {
+    position: relative;
+    top: 10px;
+    right: 10px;
+}
+.tikkaordernow {
+    border: 1px solid red;
+    border-radius: 30px;
+    background-color: red;
+    padding: 10px 30px;
+    position: relative;
+    top: 30px;
+    right: 40px;
+}
+.pakistanideluxe {
+    font-family: sans-serif, serif;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 350px;
+}
+.chickenseekhkabab {
+    font-size: 13px;
+    color: lightgray;
+    position: relative;
+    right: 110px;
+}
+.pkr5 {
+    position: relative;
+    top: 10px;
+    left: 8px;
+}
+.seekhkababordernow {
+    position: relative;
+    top: 30px;
+    right: 30px;
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 30px;
+    padding: 10px 30px;
+}
+.deluxe {
+    font-family: sans-serif, serif;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 370px;
+}
+.chickensandwich {
+    font-size: 13px;
+    color: lightgray;
+    position: relative;
+    right: 70px;
+}
+.pkr6 {
+    position: relative;
+    top: 10px;
+    right: 10px;
+}
+.chickensandwichordernow {
+    position: relative;
+    top: 30px;
+    right: 40px;
+    border: 1px solid red;
+    border-radius: 30px;
+    background-color: red;
     padding: 10px 30px;
 }
