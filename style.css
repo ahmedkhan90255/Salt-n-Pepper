@@ -174,3 +174,36 @@ body {
    justify-content: center;
    gap: 60px;
 }
+#container7 {
+    display: flex;
+    justify-content: center;
+}
+.viplink {
+    font-family: sans-serif, serif;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    left: 160px;
+    top: 10px;
+}
+.chickenshashlik {
+    color: lightgray;
+    font-size: 13px;
+    position: relative;
+    right: 140px;
+    
+}
+.pkr3 {
+    position: relative;
+    top: 10px;
+    right: 30px;
+}
+.shashlikordernow {
+    position: relative;
+    top: 20px;
+    right: 60px;
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 30px;
+    padding: 10px 30px;
+}
