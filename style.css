@@ -114,51 +114,41 @@ body {
 }
 /* Styling of container3 and container4 ends here */
 
-/* Stylingo of container5 starts here in which vertical imagee and texxt is */
+/* Styling of container5 starts here in which vertical imagee and texxt is */
 #container5 {
-    
     background-color: #0f0f0f;
-    display: flex;
-    flex-direction: row;
-
-}
-.frontofsteakheading {
-    font-weight: 100;
-    font-size: 25px;
-    color: red;
-    background-color: #0f0f0f;
-    position: absolute;
-    left: 59%;
-    top: 1150px;
-}
-.discoverthetaste {
-    font-size: 40px;
     color: white;
-    background-color: #0f0f0f;
-
-}
-.paraofsteakimg {
-    position: relative;
     display: flex;
-    font-size: 18px;
-    color: gray;
+}
+.datadiv {
+    padding: 20px 100px;
     background-color: #0f0f0f;
+}
+.steakheading1 {
+    font-weight: 400;
+    font-size: 20px;
+    color: red;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+}
+.steakheading2 {
+    font-size: 35px;
+    font-weight: 400;
+}
+.steakpara {
+    line-height: 25px;
+    word-spacing: 5px;
 }
 .learnmore {
-    background-color: #0f0f0f;
+    border: 1px solid #000000;
+    font-size: 30px;
+    font-weight: 200;
+    text-decoration: none;
     color: white;
-    border: 1px solid;
-    border-radius: 20px;
-    padding: 10px;
+    padding: 10px 10px;
+    border-radius: 30px;
 }
-.arrowimg {
-    position: relative;
-    top: 15px;
-    height: 45px;
-    width: 50px;
-    border: 0px solid;
-    border-radius: 50%;
-}
+
 /* Styling of container5 ends here */
 
 /* Styling of container6 starts here */
